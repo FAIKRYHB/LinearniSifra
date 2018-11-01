@@ -23,7 +23,7 @@ for i in range (0,len(rdystring)):
         
 deinstring = outstring
 deoutstring = ""
-
+print(outstring)
 i=0
 while i<len(deinstring):
     if deinstring[i:(i+3)]=="xwx":
